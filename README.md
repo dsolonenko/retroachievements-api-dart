@@ -1,2 +1,2 @@
 # retroachievements-api-dart
-retroachievements-api-js migrated to dart
+https://github.com/RetroAchievements/retroachievements-api-js migrated to Dart
